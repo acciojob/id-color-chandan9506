@@ -1,21 +1,39 @@
 /*  your css code here. If applicable */
 #yellow{
 	background-color:yellow;
-	border-width:"1px";
+	border-top-width:"3px";
+	border-bottom-width:"3px";
+	border-right-width:"3px";
+	border-left-width:"3px";
 	border-color:green;
-	border-style:solid;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
 }
 #red{
 	background-color:red;
-	border-width:"1"px;
+	border-top-width:"3"px;
+	border-bottom-width:"3px";
+	border-right-width:"3px";
+	border-left-width:"3px";
 	border-color:black;
-	border-style:solid;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
 }
 #green{
 	background-color:green;
-	border-width:"1px";
+	border-top-width:"3"px;
+	border-bottom-width:"3px";
+	border-right-width:"3px";
+	border-left-width:"3px";
 	border-color:yellow;
-	border-style:solid;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
 }
 
 
